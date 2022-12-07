@@ -1,0 +1,13 @@
+{
+  "name": "hanbando",
+  "description": "FIFA 2022 Qatar World Cup Hero of Korea",
+  "image": "https://brilliant-beijinho-621a72.netlify.app/hanbando.jpeg",
+  "attributes": [
+    {
+      "uniform": "red",
+      "name": "hanbando",
+      "position": "center defender",
+      "nationality": "Republic of Korea"
+    }
+  ]
+}
